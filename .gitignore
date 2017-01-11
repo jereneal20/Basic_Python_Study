@@ -1,0 +1,13 @@
+# Mac OS X
+.DS_Store
+*.dSYM
+
+# CLion
+.idea
+
+.depend.mk
+
+# vi로 열고있을때 swap file은 무시.
+.*.swp
+.*.swo
+
