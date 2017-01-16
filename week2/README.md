@@ -1,4 +1,12 @@
-##2주차 과제
+#2주차
+##수업내용
+ - server/client
+ - if. block. elif. else
+ - == (equal)
+ - newline (\n)
+ - 10 + 20, "10" + "20", "10 + 20"
+
+##과제
 ### 과제1: 오늘 한 것 복습
  - test.py 를 만들고, 그 파일에 if/elif/else 4개 이상 사용되는 프로그램 만들어보기.
 
