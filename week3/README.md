@@ -9,6 +9,7 @@
   - ReMove
  - 입출력
  - 반복 (for / while)
+  - https://wikidocs.net/21
  - Syntax error?
  - 함수
  - OR operator
