@@ -14,7 +14,7 @@
 ###과제2
 - 복습 및 추가 공부
  - [파트 4: 함수만들기](http://tryhelloworld.co.kr/courses/파이썬-입문/lessons/함수-만들기)
- - [파트 4: 매개변수](http://tryhelloworld.co.kr/courses/파이썬-입문/lessons/매개변수
+ - [파트 4: 매개 변수](http://tryhelloworld.co.kr/courses/파이썬-입문/lessons/매개변수)
  - [파트 4: 함수의 값](http://tryhelloworld.co.kr/courses/파이썬-입문/lessons/함수의-값)
 
  - [파트 7: for in list](http://tryhelloworld.co.kr/courses/파이썬-입문/lessons/for-in-list)
