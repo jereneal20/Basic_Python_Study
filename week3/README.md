@@ -1,4 +1,4 @@
-#3주차
+#3주차 (1/16)
 ##수업 계획/내용
  - Shell (pwd, ls, cd, cp, mv, rm, mkdir)
   - **P**rint **W**orking **D**irectory

@@ -1,4 +1,4 @@
-#2주차
+#2주차 (1/9)
 ##수업내용
  - server/client
  - if. block. elif. else
